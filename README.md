@@ -1,6 +1,6 @@
 Hi, I’m @appleplectic!
 
-I enjoy programming (Python, Rust, C++), game development (Unreal Engine), and reading.
+I enjoy programming (Python, Rust, C++, Dart), game development (Unreal Engine & Godot), and reading.
 
 Check out my website at https://appleplectic.github.io
 

@@ -1,3 +1,3 @@
 Hi, I’m @appleplectic!
 
-I enjoy programming with C++, Python, Rust, and Go, and game development with Godot and Unreal Engine.
+I enjoy programming with Python and C++ with a special interest in deep learning with PyTorch and doing other assorted projects in my free time.

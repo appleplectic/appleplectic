@@ -1,6 +1,6 @@
 👋 Hi, I’m Levin!
 
-I'm an aspiring computer scientist from Cary. I enjoy programming with Python and C++; in particular, I enjoy developing machine learning applications.
+I'm an aspiring computer scientist from Cary. I enjoy programming with Python, Rust and C++; in particular, I enjoy developing machine learning applications and working on systems programming.
 
 You'll often find me working on a random project with one of the following languages:
 
